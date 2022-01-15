@@ -20,7 +20,7 @@
 
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=rotby2002&theme=tokyonight&layout=compact)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rotby2002&show_icons=true&theme=synthwave)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
