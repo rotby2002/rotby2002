@@ -9,13 +9,10 @@
 **Liên hệ:**
 
  - Facebook: [Bùi Quang Hiệu](https://www.facebook.com/BQHieu.info)
- - Youtube Channel: [Bùi Quang Hiệu](https://www.youtube.com/channel/buiquanghieu)
  - Email: [rotby2002@gmail.com](mailto:rotby2002@gmail.com)
- - Github: [rotby2002](https://github.com/rotby2002)
 **Donate me:**
  - Momo: [0843217283](https://nhantien.momo.vn/0843217283)
  - MB Bank: 5588666678999
- - PayPal: [buiquanghieu](https://paypal.me/buiquanghieu)
  
  ![Profile View](https://komarev.com/ghpvc/?username=rotby2002&style=flat-square)
 
