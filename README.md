@@ -14,9 +14,9 @@
  - Momo: [0843217283](https://nhantien.momo.vn/0843217283)
  - MB Bank: 5588666678999
  
+  <h4 align="center">Profile stats :musical_keyboard:</h4>
+  
  ![Profile View](https://komarev.com/ghpvc/?username=rotby2002&style=flat-square)
- 
- <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=rotby2002&theme=tokyonight&layout=compact)
 
