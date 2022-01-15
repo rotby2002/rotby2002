@@ -2,8 +2,6 @@
 **Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Bùi Quang Hiệu**
- - Mình đang là một học sinh tại trường **THCS Nguyễn Nghiêm**
- - Mình hiện đang học tập và sinh sống tại **Quảng Ngãi**
  - Mình đang là **Developer** của project [autotrick.net](https://autotrick.net)
 
 **Liên hệ:**
@@ -11,6 +9,7 @@
  - Facebook: [Bùi Quang Hiệu](https://www.facebook.com/BQHieu.info)
  - Email: [rotby2002@gmail.com](mailto:rotby2002@gmail.com)
 **Donate me:**
+
  - Momo: [0843217283](https://nhantien.momo.vn/0843217283)
  - MB Bank: 5588666678999
  
