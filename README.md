@@ -19,7 +19,7 @@
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=rotby2002&theme=tokyonight&layout=compact)
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rotby2002&show_icons=true&theme=synthwave" alt="rotby2002 :: Profile Stats" /></p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave)
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
